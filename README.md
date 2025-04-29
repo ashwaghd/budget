@@ -1,5 +1,5 @@
-![Screenshot from 2025-04-29 16-19-00](https://github.com/user-attachments/assets/55b2f85a-f4aa-43d3-be30-67a918c2f2a4)
-# Budget Planner
+# Budget Planner![Screenshot from 2025-04-29 16-22-32](https://github.com/user-attachments/assets/ae6aee03-0492-4b83-8fd3-4a623aeb8ef9)
+
 
 A simple Python 3 budget calculator that helps you track your income, expenses, and allocate remaining funds to different categories.
 
